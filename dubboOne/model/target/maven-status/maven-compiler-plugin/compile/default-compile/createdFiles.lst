@@ -1,0 +1,5 @@
+com\geyp\dubbo\one\model\mapper\OrderRecordMapper.class
+com\geyp\dubbo\one\model\Main.class
+com\geyp\dubbo\one\model\entity\ItemInfo.class
+com\geyp\dubbo\one\model\entity\OrderRecord.class
+com\geyp\dubbo\one\model\mapper\ItemInfoMapper.class

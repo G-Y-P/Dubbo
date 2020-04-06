@@ -1,0 +1,4 @@
+com\geyp\dubbo\one\api\response\BaseResponse.class
+com\geyp\dubbo\one\api\service\IDubboItemService.class
+com\geyp\dubbo\one\api\enums\StatusCode.class
+com\geyp\dubbo\one\api\Main.class
